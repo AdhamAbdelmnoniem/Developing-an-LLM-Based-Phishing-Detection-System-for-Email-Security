@@ -1,6 +1,9 @@
 # Developing an LLM Based Phishing Detection System for Email Security
 GPT-4 based phishing email detection system built with Python and Gradio for analyzing and classifying suspicious emails.
 
+## Link to Demo Video
+https://drive.google.com/file/d/14tf7JkLzYbGE9wsMqm1nZVo0KEe6gqZE/view?usp=drive_link
+
 ## Features
 - AI-powered phishing detection using GPT-4
 - Phishing risk scoring (0%–100%)
